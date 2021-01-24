@@ -1,0 +1,2 @@
+# GermanCreditData
+Logistic Regression
